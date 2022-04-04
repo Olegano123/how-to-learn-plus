@@ -1,0 +1,8 @@
+/* Центровое изображение карточки */
+.cards__image {
+  margin: 60px auto 43px;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  display: block;
+}

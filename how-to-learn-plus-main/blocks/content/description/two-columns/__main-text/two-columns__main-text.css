@@ -1,0 +1,8 @@
+/* Регулировка положение и ширины для 3-х текстов */
+.two-columns__main-text {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0;
+}

@@ -1,0 +1,11 @@
+/* Заглавный текст "Научиться учиться" и его настройка */
+.header__title {
+  width: 730px;
+  margin-left: 64px;
+  display: flex;
+  align-self: center;
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: 600;
+  z-index: 2;
+}

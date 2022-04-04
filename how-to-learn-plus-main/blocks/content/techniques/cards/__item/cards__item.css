@@ -1,0 +1,5 @@
+/* Настройки отдельных карточек */
+.cards__item {
+  width: 240px;
+  flex-wrap: wrap;
+}

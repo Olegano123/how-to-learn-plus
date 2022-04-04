@@ -1,0 +1,22 @@
+/* Тонкие настройки ссылки с текстом "Узнать ->" */
+.header__link {
+  text-decoration: none;
+}
+
+.header__link:link {
+  color: #28e;
+}
+
+.header__link:hover {
+  font-weight: 700;
+}
+
+.header__link:visited {
+  color: #808080;
+}
+
+.header__link:active {
+  color: #f00;
+}
+
+
