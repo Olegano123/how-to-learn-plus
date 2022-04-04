@@ -1,9 +1,0 @@
-/* Картинка на главной странице и ее настройки */
-.header__main-illustration {
-  width: 765px;
-  height: 608px;
-  position: absolute;
-  align-self: flex-end;
-  right: 0;
-  z-index: 1;
-}
