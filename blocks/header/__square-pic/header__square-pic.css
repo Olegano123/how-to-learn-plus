@@ -1,0 +1,12 @@
+/* Синий фон позади картинки */
+.header__square-pic {
+  width: 568px;
+  height: 568px;
+  background-color: #28e;
+  position: absolute;
+  margin: 0;
+  top: 64px;
+  right: 0;
+}
+
+

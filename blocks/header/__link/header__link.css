@@ -1,0 +1,11 @@
+/* Тонкие настройки ссылки с текстом "Узнать ->" */
+.header__link {
+  text-decoration: none;
+  color: #28e;
+}
+
+.header__link:hover {
+  opacity: .3;
+}
+
+

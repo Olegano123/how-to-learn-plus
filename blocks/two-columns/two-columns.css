@@ -1,0 +1,7 @@
+/* Общие настройки секции <discription> */
+.two-columns {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}

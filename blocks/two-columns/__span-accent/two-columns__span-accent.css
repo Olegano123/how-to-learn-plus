@@ -1,0 +1,4 @@
+/* Полужирный шрифт для слова "Вывод" */
+.two-columns__span-accent {
+  font-weight: 700;
+}
